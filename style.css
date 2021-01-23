@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to bottom, #9933ff 30%, #cc00cc 100%);
+}
+h2{
+    font-variant:small-caps;
+    color: black;
+}
+h1{
+    font-variant:small-caps;
+    font-size:150px;
+    color: black;
+}
+#btn{
+    width:60px;
+ background-color: deeppink;
+}
